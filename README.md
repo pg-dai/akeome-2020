@@ -9,5 +9,3 @@ $ sed -i -e "$ a export PATH=\$PATH:~/akeome-2020" ~/.bashrc
 $ source ~/.bashrc
 
 $ akeome
-
-あけおめ
