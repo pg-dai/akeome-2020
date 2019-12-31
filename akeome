@@ -1,0 +1,13 @@
+#!/bin/bash
+
+akeome_dir=$(cd $(dirname $0); pwd)
+
+echo -e "\n"
+cat $akeome_dir/aa/line
+echo -e "\n"
+cat $akeome_dir/aa/2020
+echo -e "\n"
+cat $akeome_dir/aa/happynewyear
+echo -e "\n"
+cat $akeome_dir/aa/line
+echo -e "\n"
